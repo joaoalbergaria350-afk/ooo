@@ -14,12 +14,11 @@
 </body>
 <main>
 
-<form action="" method="get">
+<form action="index.html" method="get">
 
     <label for="text">Seu texto</label><br>
    
-    <textarea name="mensagem" rows="5" cols="40">
-    <Fale sobre você></textarea><br>
+<input required type="text" id="name" name="nome">
 
 
 <label for="email">Seu email</label><br>
@@ -66,6 +65,13 @@ value="Prefiro não responder"><br>
 
 <input type="checkbox" name="linguagens" value="java">
 <label for="java">JavaScript</label><br>
+
+<fieldset>
+
+<legend>Observações</legend>
+<textarea id="msg"></textarea>
+
+</fieldset>
 
 </form>
 <footer> 
