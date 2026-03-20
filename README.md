@@ -16,7 +16,7 @@
 
 <form action="index.html" method="get">
 
-    <label for="text">Seu texto</label><br>
+    <label for="text">Seu nome</label><br>
    
 <input required type="text" id="name" name="nome">
 
