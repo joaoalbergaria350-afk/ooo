@@ -18,7 +18,7 @@
 
     <label for="text">Seu nome</label><br>
    
-<input required type="text" id="name" name="nome">
+<input required type="text" id="name" name="nome"><br>
 
 
 <label for="email">Seu email</label><br>
