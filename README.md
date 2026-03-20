@@ -73,9 +73,15 @@ value="Prefiro não responder"><br>
 
 </fieldset>
 
-</form>
+<br>
+
+        <button type="submit">Cadastrar</button>
+
+        </form>
+
+</main>
 <footer> 
     <h3>Usuário do GITHUB: joaoalbergaria350-afk</h3>
 </footer>
-</main>
+
 </html>
